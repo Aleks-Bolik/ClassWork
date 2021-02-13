@@ -1,0 +1,15 @@
+C:\Users\AlexLena\Desktop\ClassWork\FirstGitProj\FirstGitProj\bin\Debug\netcoreapp3.1\FirstGitProj.exe
+C:\Users\AlexLena\Desktop\ClassWork\FirstGitProj\FirstGitProj\bin\Debug\netcoreapp3.1\FirstGitProj.deps.json
+C:\Users\AlexLena\Desktop\ClassWork\FirstGitProj\FirstGitProj\bin\Debug\netcoreapp3.1\FirstGitProj.runtimeconfig.json
+C:\Users\AlexLena\Desktop\ClassWork\FirstGitProj\FirstGitProj\bin\Debug\netcoreapp3.1\FirstGitProj.runtimeconfig.dev.json
+C:\Users\AlexLena\Desktop\ClassWork\FirstGitProj\FirstGitProj\bin\Debug\netcoreapp3.1\FirstGitProj.dll
+C:\Users\AlexLena\Desktop\ClassWork\FirstGitProj\FirstGitProj\bin\Debug\netcoreapp3.1\FirstGitProj.pdb
+C:\Users\AlexLena\Desktop\ClassWork\FirstGitProj\FirstGitProj\obj\Debug\netcoreapp3.1\FirstGitProj.csprojAssemblyReference.cache
+C:\Users\AlexLena\Desktop\ClassWork\FirstGitProj\FirstGitProj\obj\Debug\netcoreapp3.1\FirstGitProj.Form1.resources
+C:\Users\AlexLena\Desktop\ClassWork\FirstGitProj\FirstGitProj\obj\Debug\netcoreapp3.1\FirstGitProj.csproj.GenerateResource.cache
+C:\Users\AlexLena\Desktop\ClassWork\FirstGitProj\FirstGitProj\obj\Debug\netcoreapp3.1\FirstGitProj.AssemblyInfoInputs.cache
+C:\Users\AlexLena\Desktop\ClassWork\FirstGitProj\FirstGitProj\obj\Debug\netcoreapp3.1\FirstGitProj.AssemblyInfo.cs
+C:\Users\AlexLena\Desktop\ClassWork\FirstGitProj\FirstGitProj\obj\Debug\netcoreapp3.1\FirstGitProj.csproj.CoreCompileInputs.cache
+C:\Users\AlexLena\Desktop\ClassWork\FirstGitProj\FirstGitProj\obj\Debug\netcoreapp3.1\FirstGitProj.dll
+C:\Users\AlexLena\Desktop\ClassWork\FirstGitProj\FirstGitProj\obj\Debug\netcoreapp3.1\FirstGitProj.pdb
+C:\Users\AlexLena\Desktop\ClassWork\FirstGitProj\FirstGitProj\obj\Debug\netcoreapp3.1\FirstGitProj.genruntimeconfig.cache
